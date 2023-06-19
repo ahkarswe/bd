@@ -1,5 +1,5 @@
 {
-	"employees": {
+
 		"employee": [
 			{
 			  "id": 1,
@@ -10,5 +10,5 @@
 			  "weight" : 67.5
 			}
 		]	
-	}
+	
 }
