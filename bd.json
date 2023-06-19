@@ -1,13 +1,12 @@
 {
-		"employee": [
-			{
-			  "id": 1,
-			  "nme": "Ahkar",
-			  "bornyear": 1978,
-			  "date": 23,
-			  "month": 6,
-			  "weight" : 67.5
-			}
-		]	
-	
+    "jsonrpc": "2.0",
+    "employee": [
+        {
+            "name": "ahkar",
+            "day": "23",
+			"date": "06"
+            
+        }
+    ],
+    "id": 2
 }
